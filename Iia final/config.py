@@ -20,7 +20,7 @@ DATABASE_CONFIG = {
 
 # LLM Configuration - Google Gemini API
 LLM_CONFIG = {
-    "api_key": "AIzaSyCK03H8mUStwv1Aj1bpA6KaruoRO0XtXU0",
+    "api_key": "USE your own api key",// use your own api key here
     "model": "gemini-2.0-flash-001",  # or gemini-2.5-flash etc.
     "temperature": 0.3,
     "max_tokens": 1024,
