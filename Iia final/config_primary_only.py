@@ -1,6 +1,6 @@
 # Database Configuration for Primary Laptop Only Operation
 # This configuration keeps everything in primary database for single laptop testing
-# Secondary laptop connection code remains intact for future use
+# Secondary laptop connection code remains intact anyone can run this in primary laptioo using this
 
 DATABASE_CONFIG = {
     'primary': {
@@ -21,7 +21,7 @@ DATABASE_CONFIG = {
 
 # LLM Configuration
 LLM_CONFIG = {
-    'api_key': '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',
+    'api_key': 'Use your own api keys ',
     'model': 'anthropic/claude-3.5-sonnet',
     'max_tokens': 500,
     'temperature': 0.7,
@@ -80,4 +80,5 @@ SERVICE_TYPES = {
         'keywords': ['automotive', 'car', 'vehicle', 'engine'],
         'priority_skills': ['engine_repair', 'transmission', 'diagnostics']
     }
+
 }
