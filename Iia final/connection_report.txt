@@ -1,0 +1,19 @@
+MySQL Connection Test Report
+Generated: 2025-11-30 04:07:07.571442
+==================================================
+
+PRIMARY DATABASE:
+Status: FAILED
+Timestamp: 2025-11-30T04:07:05.366465
+Error: Port closed
+
+------------------------------
+SECONDARY DATABASE:
+Status: SUCCESS
+Timestamp: 2025-11-30T04:07:06.560294
+Version: 8.4.7
+Tables: 4
+
+------------------------------
+
+SUMMARY: 1/2 connections successful
