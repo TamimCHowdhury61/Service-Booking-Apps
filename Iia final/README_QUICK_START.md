@@ -1,8 +1,7 @@
 # 🚀 Duplicate Detection System - Quick Start
 
-## ⚡ Get Started in 30 Seconds
 
-### Option 1: Quick Check (30 seconds)
+### Option 1: Quick Check 
 ```bash
 cd "/Users/tamimchowdhury/Downloads/Final project copy 2"
 python admin_duplicate_stats.py
@@ -14,7 +13,7 @@ python admin_duplicate_stats.py
 - Active vs cancelled duplicates
 - Data quality score
 
-### Option 2: Full Analysis (2 minutes)
+### Option 2: Full Analysis (
 ```bash
 python duplicate_analysis_report.py
 ```
@@ -25,7 +24,7 @@ python duplicate_analysis_report.py
 - CSV export for external analysis
 - Active duplicates that need attention
 
-### Option 3: See Demo (1 minute)
+### Option 3: See Demo 
 ```bash
 python demo_similarity_matching.py
 ```
